@@ -1,3 +1,6 @@
 server:
- port: 9006
-name: zhangsan 
+  port: 9006
+name: zhangsan-dev
+spring:
+  application:
+    name: config-client-dev      
