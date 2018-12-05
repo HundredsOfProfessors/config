@@ -1,6 +1,6 @@
 server:
   port: 9007
-name: lisi-test-test 
+name: lisi-test-modify
 spring:
   application:
     name: config-client-test      
