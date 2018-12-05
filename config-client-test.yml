@@ -1,6 +1,6 @@
 server:
-  port: 9009
-name: lisi-test 
+  port: 9007
+name: lisi-test-test 
 spring:
   application:
     name: config-client-test      
