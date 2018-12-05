@@ -1,3 +1,6 @@
 server:
- port: 9007
-name: lisi 
+  port: 9007
+name: lisi-test 
+spring:
+  application:
+    name: config-client-test      
